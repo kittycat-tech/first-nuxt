@@ -10,5 +10,8 @@
     "@nuxtjs/tailwindcss": "^6.1.3",
     "@tailwindcss/typography": "^0.5.8",
     "nuxt": "3.0.0"
+  },
+  "dependencies": {
+    "composable": "^1.0.3"
   }
 }
